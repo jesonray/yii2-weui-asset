@@ -1,0 +1,22 @@
+{
+  "name": "raysoft/yii2-weui-asset",
+  "description": "yii2-weui-asset",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jesonray",
+      "email": "jesonray@163.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "bower-asset/weui": "~0.4.0",
+    "yiisoft/yii2": ">=2.0.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "raysoft\\weui\\": ""
+    }
+  }
+}
