@@ -8,10 +8,9 @@
       "email": "jesonray@163.com"
     }
   ],
-  "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "bower-asset/weui": "~0.4.0",
+    "bower-asset/weui": ">=0.4.0",
     "yiisoft/yii2": ">=2.0.6"
   },
   "autoload": {
